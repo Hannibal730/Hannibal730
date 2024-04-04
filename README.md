@@ -7,7 +7,8 @@
 
 ### • 🏫 College : Konkuk.univ
 
-### • ✏ Major: Applied Statistics📊 & Industrial Engineering🏭
+### • ✏ Major 1: Applied Statistics📊
+### • ✏ Major 2: Industrial Engineering🏭
 
 ### • ✨ Dream: Owner of a Ferrari🚗
 
