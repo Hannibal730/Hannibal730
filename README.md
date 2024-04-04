@@ -1,18 +1,11 @@
-### Hi there 👋
+### 갓대승이 황제로 군림하는 깃허브 국가
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](http://ForTheBadge.com/images/badges/made-with-python.svg)
+![](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+![](https://github-readme-stats.vercel.app/api?username={Hannibal730}&theme=blue-green)
+![]()
+![]()
+![]()
+![]()
 
-<!--
-**Hannibal730/Hannibal730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hannibal730)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hannibal730)](https://github.com/anuraghazra/github-readme-stats)
