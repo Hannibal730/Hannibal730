@@ -5,7 +5,7 @@
 
 #### • 📫 e-mail: cds730@naver.com
 
-#### • 🏫 College : Konkuk.univ
+#### • 🏫 College: Konkuk.univ
 
 #### • ✏ Major 1: Applied Statistics📊
 #### • ✏ Major 2: Industrial Engineering🏭
