@@ -10,7 +10,7 @@
 #### • ✏️ Major 1: Applied Statistics📊
 #### • ✏️ Major 2: Industrial Engineering🏭
 
-#### • ✨ Dream: Owner of a Ferrari🚗
+#### • ✨ Dream: Ferrari driver🚗
 
 ###
 
