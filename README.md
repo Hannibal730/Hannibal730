@@ -7,8 +7,8 @@
 
 ### • 🏫 College: Konkuk.univ
 
-### • ✏️ Major 1: Applied Statistics📊
-### • ✏️ Major 2: Industrial Engineering🏭
+### • 📊 Major 1: Applied Statistics
+### • 🏭 Major 2: Industrial Engineering
 
 ### • ✨ Interests: Computer Vision with autonomous driving
 
