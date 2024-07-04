@@ -10,7 +10,7 @@
 ### • ✏️ Major 1: Applied Statistics📊
 ### • ✏️ Major 2: Industrial Engineering🏭
 
-### • ✨ Dream: Ferrari driver
+### • ✨ Interests: Computer Vision with autonomous driving
 
 ###
 
