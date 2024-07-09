@@ -3,18 +3,18 @@
 
 ## • 🤴🏻 Name:  Hannibal
 
-### • 📫 e-mail:  cds730@naver.com
+## • 📫 e-mail:  cds730@naver.com
 
-### • 🏫 College:  Konkuk.univ
+## • 🏫 College:  Konkuk.univ
 
-### • 📊 Major 1:  Applied Statistics
-### • 🏭 Major 2:  Industrial Engineering
+## • 📊 Major 1:  Applied Statistics
+## • 🏭 Major 2:  Industrial Engineering
 
-### • ✨ Interests:  Computer Vision with autonomous driving
+## • ✨ Interests:  Computer Vision with autonomous driving
 
 ###
 
-### • 💻 Preferred programming language
+## • 💻 Preferred programming language
 ![](https://img.shields.io/badge/Python-1D9FD7?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=Jupyter&GoogleColab=white)
