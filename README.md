@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Python-1D9FD7?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=Jupyter&GoogleColab=white)
-
+![](https://img.shields.io/badge/cplusplus-#00599C?style=for-the-badge&logo=Jupyter&GoogleColab=white)
 
 ###
 ## • 🔎 Stats
