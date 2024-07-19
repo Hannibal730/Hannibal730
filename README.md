@@ -17,7 +17,7 @@
 ## • 💻 Preferred programming language
 ![](https://img.shields.io/badge/Python-1D9FD7?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![](https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=Jupyter&GoogleColab=white)
+![](https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=GoogleColab=white)
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 ###
 ## • 🔎 Stats
