@@ -19,7 +19,6 @@
 ![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=Jupyter&GoogleColab=white)
 ![](https://img.shields.io/badge/cplusplus-#00599C?style=for-the-badge&logo=Jupyter&GoogleColab=white)
-
 ###
 ## • 🔎 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hannibal730&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
