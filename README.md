@@ -22,7 +22,7 @@
 
 ### Statistics
 <div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Hanniabl&show_icons=true&theme=holi" width = "49%" height="130%" />
+  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Hanniabl730&show_icons=true&theme=holi" width = "49%" height="130%" />
 </div>
 
 
