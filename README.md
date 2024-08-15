@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-![](https://img.shields.io/badge/ROS-##C3002D?style=for-the-badge&logo=ROS=white)
+![](https://img.shields.io/badge/ROS-#22314E?style=for-the-badge&logo=ROS=white)
 ###
 ## • 🔎 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hannibal730&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
