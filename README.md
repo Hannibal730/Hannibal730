@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white">
 ###
 ## • 🔎 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hannibal730&show_icons=true&theme=transparent)
 
 
 
