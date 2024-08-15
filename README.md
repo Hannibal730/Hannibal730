@@ -7,8 +7,8 @@
 
 ### • 🏫 College:  [Konkuk.univ](https://www.konkuk.ac.kr/konkuk/index.do)
 
-### • 📊 Major 1:  [Applied Statistics](https://stat.konkuk.ac.kr/stat/index.do)
-### • 🏭 Major 2:  [Industrial Engineering](https://kies.konkuk.ac.kr/kies/index.do)
+### • 📊 Primary major:  [Applied Statistics](https://stat.konkuk.ac.kr/stat/index.do)
+### • 🏭 Double major:  [Industrial Engineering](https://kies.konkuk.ac.kr/kies/index.do)
 
 ### • ✨ Interests:  Computer Vision with autonomous driving
 
