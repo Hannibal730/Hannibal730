@@ -20,6 +20,8 @@
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hannibal730&show_icons=true&theme=radical)
+
 
 
 
