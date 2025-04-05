@@ -14,7 +14,7 @@
 
 ###
 
-### • 💻 Stacks: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+### • 💻 Stacks: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-00A9A9?style=for-the-badge&logo=ROS&logoColor=white)
 
 #![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hannibal730&show_icons=true&theme=radical)
 
