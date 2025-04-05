@@ -10,7 +10,7 @@
 ### • 📊 Primary major:  [Applied Statistics](https://stat.konkuk.ac.kr/stat/index.do)
 ### • 🏭 Double major:  [Industrial Engineering](https://kies.konkuk.ac.kr/kies/index.do)
 
-### • ✨ Interests:  Computer Vision with autonomous driving
+### • ✨ Interests:  Adversarial Attacks for Autonomous Vehicles
 
 ###
 
