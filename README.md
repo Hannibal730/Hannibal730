@@ -1,7 +1,5 @@
-# 👑 A world where Hannibal reigns as emperor 👑
+# 👑 Hannibal's Empirer 👑
 ###
-
-### • 🤴🏻 Name:  Hannibal
 
 ### • 📫 e-mail:  cds730@naver.com
 
