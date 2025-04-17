@@ -1,0 +1,25 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}  # 여기를 수정
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name Hannibal730  # 여기를 수정
+          git config user.email cds730@naver.com  # 여기를 수정
+          git add -A .
+          if git commit -m "generated"; then
+            git push
+          fi
