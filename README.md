@@ -15,11 +15,12 @@
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white) 
 
 
-![Hannibal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hannibal730&show_icons=true&count_private=true&theme=radical)
 
 
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="600" />
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="700" />
+
 
 
 ![Image](https://github.com/user-attachments/assets/0b65b857-051b-4677-9284-66a6822da7af)
@@ -28,6 +29,8 @@
 
 
 <!--
+
+![Hannibal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hannibal730&show_icons=true&count_private=true&theme=radical)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
