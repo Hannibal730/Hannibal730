@@ -30,13 +30,13 @@
 
 <br>
 
-| [3D Multi‑Object Tracking](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
+| [3D Object Detection on Traffic Data](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
 | :-------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/user-attachments/assets/0b65b857-051b-4677-9284-66a6822da7af" width="500" alt="Tracking Example" /> |
 
 <br>
 
-| [Trajectory Prediction with Kalman Filter](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
+| [3D Multi‑Object Tracking and Trajectory Prediction with Kalman Filter](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
 | :-------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/user-attachments/assets/45a4bb4e-2693-4ca1-a9e5-62a8b052d0e3" width="500" alt="predict Example" /> |
 
