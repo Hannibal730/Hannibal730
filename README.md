@@ -26,9 +26,9 @@
 ![Image](https://github.com/user-attachments/assets/45a4bb4e-2693-4ca1-a9e5-62a8b052d0e3)
 
 
-<img src="https://github.com/user-attachments/assets/8636e5e5-9f0b-404a-b9ab-b0bb32dffca7" width="250" />
-<img src="https://github.com/user-attachments/assets/0b65b857-051b-4677-9284-66a6822da7af" width="250" />
-<img src="https://github.com/user-attachments/assets/45a4bb4e-2693-4ca1-a9e5-62a8b052d0e3" width="250" />
+<img src="https://github.com/user-attachments/assets/8636e5e5-9f0b-404a-b9ab-b0bb32dffca7" width="600" />
+<img src="https://github.com/user-attachments/assets/0b65b857-051b-4677-9284-66a6822da7af" width="600" />
+<img src="https://github.com/user-attachments/assets/45a4bb4e-2693-4ca1-a9e5-62a8b052d0e3" width="600" />
 
 
 <!--
