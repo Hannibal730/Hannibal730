@@ -21,17 +21,33 @@
 <img src="./profile-3d-contrib/profile-night-green.svg" width="700" />
 
 
+ 
+<br>
+
+| [Lane Detection & Pure Pursuit for Steering Angle of Local Path Planning](https://github.com/Hannibal730/SlidingWindow-LaneDetection-PurePursuit) |
+| :-------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/user-attachments/assets/8636e5e5-9f0b-404a-b9ab-b0bb32dffca7" width="500" alt="predict Example" /> |
+
+<br>
+
+| [3D Multi‑Object Tracking](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
+| :-------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/user-attachments/assets/0b65b857-051b-4677-9284-66a6822da7af" width="500" alt="Tracking Example" /> |
+
+<br>
+
+| [Trajectory Prediction with Kalman Filter](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
+| :-------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/user-attachments/assets/45a4bb4e-2693-4ca1-a9e5-62a8b052d0e3" width="500" alt="predict Example" /> |
+
+
+
+<!--
+
 ![Image](https://github.com/user-attachments/assets/8636e5e5-9f0b-404a-b9ab-b0bb32dffca7)
 ![Image](https://github.com/user-attachments/assets/0b65b857-051b-4677-9284-66a6822da7af)
 ![Image](https://github.com/user-attachments/assets/45a4bb4e-2693-4ca1-a9e5-62a8b052d0e3)
 
-
-<img src="https://github.com/user-attachments/assets/8636e5e5-9f0b-404a-b9ab-b0bb32dffca7" width="600" />
-<img src="https://github.com/user-attachments/assets/0b65b857-051b-4677-9284-66a6822da7af" width="600" />
-<img src="https://github.com/user-attachments/assets/45a4bb4e-2693-4ca1-a9e5-62a8b052d0e3" width="600" />
-
-
-<!--
 
 ![Hannibal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hannibal730&show_icons=true&count_private=true&theme=radical)
 
