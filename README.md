@@ -18,7 +18,7 @@
 
 
 
-<img src="./profile-3d-contrib/profile-night-green.svg" width="700" />
+<img src="./profile-3d-contrib/profile-night-green.svg" width="500" />
 
 
  
