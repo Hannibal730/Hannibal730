@@ -29,7 +29,6 @@
 | [Lane Detection & Pure Pursuit for Steering Angle of Local Path Planning](https://github.com/Hannibal730/SlidingWindow-LaneDetection-PurePursuit) |
 | :-------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/user-attachments/assets/8636e5e5-9f0b-404a-b9ab-b0bb32dffca7" width="500" alt="predict Example" /> |
-| [![predict Example](https://github.com/user-attachments/assets/8636e5e5-9f0b-404a-b9ab-b0bb32dffca7){width=500}](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
 
 
 <br>
