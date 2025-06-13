@@ -57,7 +57,7 @@
 
 <br>
 
-| [3D Multi‑Object Tracking & Predicting Future-Position with Kalman Filter](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
+| [3D Multi‑Object Tracking & Future-Position Prediction with Kalman Filter](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
 | :-------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/user-attachments/assets/99a2b9df-4cf4-4fdb-9738-3ba760bf70b9" width="500" alt="predict Example" /> |
 | <img src="https://github.com/user-attachments/assets/38ec7578-6955-4c19-8250-30364f4f99ec" width="500" alt="predict Example" /> |
