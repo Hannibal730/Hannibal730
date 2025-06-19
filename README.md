@@ -27,7 +27,10 @@
 
 
 
+<!--
 <img src="./profile-3d-contrib/profile-night-green.svg" width="500" />
+-->
+
 
 <br>
 
