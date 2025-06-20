@@ -18,11 +18,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-
-
-
-
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
 
@@ -30,6 +26,14 @@
 <!--
 <img src="./profile-3d-contrib/profile-night-green.svg" width="500" />
 -->
+
+<br>
+
+# 2025.06
+| [3D-Lidar-wall-detection](https://github.com/Hannibal730/3D-Lidar-wall-detection_ws) |
+| :-------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/user-attachments/assets/d5885917-0a70-46a8-8bc6-dbf568cefc94" width="500" alt="predict Example" /> |
+
 
 <br>
 
