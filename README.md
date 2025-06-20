@@ -42,7 +42,7 @@
 # 2025.06
 | [3D-Lidar-wall-detection](https://github.com/Hannibal730/3D-Lidar-wall-detection_ws) |
 | :-------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/d5885917-0a70-46a8-8bc6-dbf568cefc94" width="500" alt="predict Example" /> |
+| <img src="https://github.com/user-attachments/assets/aedda086-c0a7-42ee-a634-82918963bd26" width="500" alt="predict Example" /> |
 
 
 <br>
