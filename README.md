@@ -31,7 +31,7 @@
 <br>
 
 # Ongoing (2024.12~)
-| EV_Autonomous_Driving_Competition |
+| Sensor fusion of GPS and 3D LiDAR for local path planning |
 | :-------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/user-attachments/assets/72edc9fe-0ec0-4158-8052-e24667f2eda4" width="500" alt="predict Example" /> |
 
