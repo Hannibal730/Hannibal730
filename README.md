@@ -27,6 +27,16 @@
 <img src="./profile-3d-contrib/profile-night-green.svg" width="500" />
 -->
 
+
+<br>
+
+# Ongoing (2024.12~)
+| EV_Autonomous_Driving_Competition |
+| :-------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/user-attachments/assets/72edc9fe-0ec0-4158-8052-e24667f2eda4" width="500" alt="predict Example" /> |
+
+
+
 <br>
 
 # 2025.06
