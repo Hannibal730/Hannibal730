@@ -7,7 +7,7 @@
 
 - 📫 **e-mail:  cds730@naver.com**
 
-- 🏫 **College:  [Konkuk.univ](https://www.konkuk.ac.kr/konkuk/index.do)**
+- 🏫 **College:  [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do)**
 
 - 📊 **Primary major:  [Applied Statistics](https://stat.konkuk.ac.kr/stat/index.do)**
 - 🏭 **Double major:  [Industrial Engineering](https://kies.konkuk.ac.kr/kies/index.do)**
@@ -29,69 +29,70 @@
 <img src="./profile-3d-contrib/profile-night-green.svg" width="500" />
 -->
 
-
 <br>
 
-# Ongoing (2024.12~)
-| Sensor fusion of GPS and 3D LiDAR for RRT path planning |
-| :-------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/72edc9fe-0ec0-4158-8052-e24667f2eda4" width="500" alt="predict Example" /> |
-
-
-
-<br>
-
-# 2025.06
-| [3D-Lidar-wall-detection](https://github.com/Hannibal730/3D-Lidar-wall-detection_ws) |
-| :-------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/d5885917-0a70-46a8-8bc6-dbf568cefc94" width="500" alt="predict Example" /> |
+# Ongoing projects
+* ## 2024.12 ~ 2025.07
+   | Sensor fusion of GPS and 3D LiDAR for RRT path planning |
+   | :-------------------------------------------------------------------------------------------- |
+   | <img src="https://github.com/user-attachments/assets/72edc9fe-0ec0-4158-8052-e24667f2eda4" width="600" alt="predict Example" /> |
 
 
 <br>
+<br>
 
-# 2025.01 ~ 2025.04
-
-| [3D Multi‑Object Tracking & Future-Position Prediction with Kalman Filter](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
-| :-------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/99a2b9df-4cf4-4fdb-9738-3ba760bf70b9" width="500" alt="predict Example" /> |
-| <img src="https://github.com/user-attachments/assets/38ec7578-6955-4c19-8250-30364f4f99ec" width="500" alt="predict Example" /> |
-
-
+# Completed projects
+* ## 2025.06
+   | [3D-Lidar-wall-detection](https://github.com/Hannibal730/3D-Lidar-wall-detection_ws) |
+   | :-------------------------------------------------------------------------------------------- |
+   | <img src="https://github.com/user-attachments/assets/d5885917-0a70-46a8-8bc6-dbf568cefc94" width="600" alt="predict Example" /> |
+   
 
 <br>
 
-# 2024.12 ~ 2025.01
+* ## 2025.01 ~ 2025.04
 
-| [3D Object Detection on Traffic Dataset](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
-| :-------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/2f300088-fca3-4832-b1d4-dda7380f6602" width="500" alt="Tracking Example" /> |
-
-
-<br>
-
-# 2024.09 ~ 2024.11
-
-| [Lane Detection & Pure Pursuit for Steering Angle of Local Path Planning](https://github.com/Hannibal730/SlidingWindow-LaneDetection-PurePursuit) |
-| :-------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/8636e5e5-9f0b-404a-b9ab-b0bb32dffca7" width="500" alt="predict Example" /> |
-
-
-
+   | [3D Multi‑Object Tracking & Future-Position Prediction with Kalman Filter](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
+   | :-------------------------------------------------------------------------------------------- |
+   | <img src="https://github.com/user-attachments/assets/99a2b9df-4cf4-4fdb-9738-3ba760bf70b9" width="600" alt="predict Example" /> |
+   | <img src="https://github.com/user-attachments/assets/38ec7578-6955-4c19-8250-30364f4f99ec" width="600" alt="predict Example" /> |
 
 
 
 <br>
 
-# 2024.06
+* ## 2024.12 ~ 2025.01
 
-| [Autonomous driving model learned by Pytorch Transfer Learning](https://github.com/Hannibal730/KONKUK-Univ_Autonomous-Driving-Competition ) |
-| :-------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/cbbcbb5f-a21a-42d7-96b6-b477d0f0e6d5" alt="ezgif com-video-to-gif-converter" width="400">   |
+   | [3D Object Detection on Traffic Dataset](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
+   | :-------------------------------------------------------------------------------------------- |
+   | <img src="https://github.com/user-attachments/assets/2f300088-fca3-4832-b1d4-dda7380f6602" width="600" alt="Tracking Example" /> |
 
 
-|direction|go|left|right|
-|:---:|:---:|:---:|:---:|
-|Preprocessed <br> train data|<img src="https://github.com/user-attachments/assets/95112164-7efa-46c3-af64-9926aae694b3" width="105" alt="Image">  | <img src="https://github.com/user-attachments/assets/85175b2b-5a76-460c-bf55-6e8d5ac9a00f" width="105" alt="Image"> | <img src="https://github.com/user-attachments/assets/8ba87864-7ac3-47da-8831-2f9b69dc81dc" width="105" alt="Image">|
+<br>
+
+* ## 2024.09 ~ 2024.11
+
+   | [Lane Detection & Pure Pursuit for Steering Angle of Local Path Planning](https://github.com/Hannibal730/SlidingWindow-LaneDetection-PurePursuit) |
+   | :-------------------------------------------------------------------------------------------- |
+   | <img src="https://github.com/user-attachments/assets/8636e5e5-9f0b-404a-b9ab-b0bb32dffca7" width="600" alt="predict Example" /> |
+   
+
+
+
+
+
+<br>
+
+* ## 2024.06
+
+   | [Autonomous driving model learned by Pytorch Transfer Learning](https://github.com/Hannibal730/KONKUK-Univ_Autonomous-Driving-Competition ) |
+   | :-------------------------------------------------------------------------------------------- |
+   | <img src="https://github.com/user-attachments/assets/cbbcbb5f-a21a-42d7-96b6-b477d0f0e6d5" alt="ezgif com-video-to-gif-converter" width="400">   |
+
+
+   |direction|go|left|right|
+   |:---:|:---:|:---:|:---:|
+   |Preprocessed <br> train data|<img src="https://github.com/user-attachments/assets/95112164-7efa-46c3-af64-9926aae694b3" width="105" alt="Image">  | <img src="https://github.com/user-attachments/assets/85175b2b-5a76-460c-bf55-6e8d5ac9a00f" width="105" alt="Image"> | <img src="https://github.com/user-attachments/assets/8ba87864-7ac3-47da-8831-2f9b69dc81dc" width="105" alt="Image">|
 
 
  
