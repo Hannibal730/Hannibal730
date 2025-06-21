@@ -21,13 +21,9 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hannibal730&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-[![Hannibal730’s GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hannibal730&theme=github-compact&from=2024-06-22&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Hannibal730’s GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hannibal730&theme=github-compact&from=2024-06-22&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!--
+[![Hannibal730’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hannibal730&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 <!--
 <img src="./profile-3d-contrib/profile-night-green.svg" width="500" />
