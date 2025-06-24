@@ -35,7 +35,7 @@
 # Ongoing team project
 * ## 2024.12 ~ 2025.07
    
-   | [The 4th International University Student EV Autonomous Driving Competition](https://ievexpo.org/Notice/?bmode=view&idx=164890143)|
+   | The 4th International University Student EV Autonomous Driving Competition|
    | :-------------------------------------------------------------------------------------------- |
    | My role: 3D detection with RRT path planning & Sensor fusion of GPS and 3D LiDAR |
    | <img src="https://github.com/user-attachments/assets/72edc9fe-0ec0-4158-8052-e24667f2eda4" width="600" alt="predict Example" /> |
