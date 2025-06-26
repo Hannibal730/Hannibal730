@@ -12,7 +12,7 @@
 - 📊 **Primary major:  [Applied Statistics](https://stat.konkuk.ac.kr/stat/index.do)**
 - 🏭 **Double major:  [Industrial Engineering](https://kies.konkuk.ac.kr/kies/index.do)**
 
-- ✨ **Interests:  Adversarial Attacks for Autonomous Vehicles**
+- ✨ **Interests:  Adversarial Training for Autonomous Vehicles**
 
 - 💻 **Stacks:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
