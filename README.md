@@ -32,6 +32,19 @@
 <br>
 
 # Ongoing team project
+* ## 2024.08 ~ 
+   
+   | [Eye-tracker with lower cost webcam](https://github.com/Hannibal730/Eye_track/tree/main)|
+   | :-------------------------------------------------------------------------------------------- |
+   |  |
+
+
+<br>
+<br>
+
+# Completed projects
+
+
 * ## 2024.12 ~ 2025.07
    
    | The 4th International University Student EV Autonomous Driving Competition|
@@ -40,11 +53,9 @@
    | <img src="https://github.com/user-attachments/assets/72edc9fe-0ec0-4158-8052-e24667f2eda4" width="600" alt="predict Example" /> |
    | <img src="https://github.com/user-attachments/assets/8cc75928-249b-4a52-b70f-abfa284b0144" width="180" alt="predict Example" /> |
 
-
-<br>
 <br>
 
-# Completed projects
+
 * ## 2025.06
    | [3D-Lidar-wall-detection](https://github.com/Hannibal730/3D-Lidar-wall-detection_ws) |
    | :-------------------------------------------------------------------------------------------- |
