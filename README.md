@@ -3,6 +3,9 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hannibal730.Hannibal730)
 -->
 
+<img width="3773" height="1227" alt="그림2" src="https://github.com/user-attachments/assets/f44ca0da-4fb5-40a8-99f4-53281c4f6d4f" />
+
+
 ### 📊 **Majored in Statistics in Konkuk Univ, member of robotics club's Autonomous driving team.**
 
 ### 🚗 **My goal is Building robust vision systems for autonomous vehicles.**
