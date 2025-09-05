@@ -36,7 +36,7 @@
    
    | [Mando HL Klemove Autonomous Driving Competition](https://www.swuniv.kr/notice/?bmode=view&idx=164215587) |
    | :-------------------------------------------------------------------------------------------- |
-   | <img src="https://github.com/user-attachments/assets/b668711f-89e5-47d5-9d99-afc96a72787c" width="600" alt="predict Example" /> |
+   | <img src="https://github.com/user-attachments/assets/b668711f-89e5-47d5-9d99-afc96a72787c" width="200" alt="predict Example" /> |
 
 
 <br>
@@ -49,7 +49,7 @@
    | [Eye-tracker with logitech webcam C920 PRO](https://github.com/Hannibal730/Eye_track/tree/main)|
    | :-------------------------------------------------------------------------------------------- |
    | <img src="https://github.com/user-attachments/assets/3887fa4d-d510-4004-95ab-91bf04c8b868" width="600" alt="predict Example" /> |
-   | <img src="https://github.com/user-attachments/assets/e8299c62-69e0-41aa-a07d-2bc1ba777d7d" width="600" alt="predict Example" /> |
+   | <img src="https://github.com/user-attachments/assets/e8299c62-69e0-41aa-a07d-2bc1ba777d7d" width="200" alt="predict Example" /> |
 
 
 * ## 2024.12 ~ 2025.07
