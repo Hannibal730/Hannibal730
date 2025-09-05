@@ -34,9 +34,9 @@
 # Ongoing team project
 * ## 2024.08 ~ 
    
-   | [Eye-tracker with lower cost webcam](https://github.com/Hannibal730/Eye_track/tree/main)|
+   | [Eye-tracker with notebook's webcam](https://github.com/Hannibal730/Eye_track/tree/main)|
    | :-------------------------------------------------------------------------------------------- |
-   |  |
+   | <img src="https://github.com/user-attachments/assets/3887fa4d-d510-4004-95ab-91bf04c8b868" width="600" alt="predict Example" /> |
 
 
 <br>
