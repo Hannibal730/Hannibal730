@@ -3,8 +3,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hannibal730.Hannibal730)
 -->
 
-# 👑 Hannibal's Empire 👑
-
 - 📫 **e-mail:  cds730@naver.com**
 
 - 🏫 **College:  [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do)**
