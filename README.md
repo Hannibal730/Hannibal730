@@ -3,16 +3,20 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hannibal730.Hannibal730)
 -->
 
-- 📫 **e-mail:  cds730@naver.com**
+📊 **As a Statistics student with a passion for practical application, I am a contributing member of my university's robotics club, where I actively participate on the autonomous driving team.**
 
-- 🏫 **College:  [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do)**
+🚗 **My hands-on experience in various competitions has deepened my interest in a critical area of deep learning: building robust perception systems for autonomous vehicles.**
 
-- 📊 **Primary major:  [Applied Statistics](https://stat.konkuk.ac.kr/stat/index.do)**
-- 🏭 **Double major:  [Industrial Engineering](https://kies.konkuk.ac.kr/kies/index.do)**
+🦾 **I am particularly focused on developing solutions that can withstand adversarial attacks and prevent model stealing.**
 
-- ✨ **Interests:  Adversarial Training for Autonomous Vehicles**
+<!--
+📫 **e-mail:  cds730@naver.com**
+🏫 **College:  [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do)**
+📊 **Primary major:  [Applied Statistics](https://stat.konkuk.ac.kr/stat/index.do)**
+🏭 **Double major:  [Industrial Engineering](https://kies.konkuk.ac.kr/kies/index.do)**
+-->
 
-- 💻 **Stacks:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
