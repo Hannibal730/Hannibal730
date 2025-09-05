@@ -42,7 +42,6 @@
 
 
 <br>
-<br>
 
 # Completed projects
 
