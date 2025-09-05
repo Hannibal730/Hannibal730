@@ -3,7 +3,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hannibal730.Hannibal730)
 -->
 
-📊 **I'm maajored in Statistics and contributing member of my university's robotics club, where I actively participate on the autonomous driving team.**
+📊 **I'm majored in Statistics in Konkuk University and contributing member of my university's robotics club, where I actively participate on the autonomous driving team.**
 
 🚗 **My hands-on experience in various competitions has deepened my interest in a critical area of deep learning: building robust perception systems for autonomous vehicles.**
 
