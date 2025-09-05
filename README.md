@@ -3,11 +3,11 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hannibal730.Hannibal730)
 -->
 
-📊 **I'm majored in Statistics in Konkuk University and contributing member of my university's robotics club, where I actively participate on the autonomous driving team.**
+📊 **I'm majored in Statistics in Konkuk University and contributing member of my university's autonomous driving club.**
 
-🚗 **My hands-on experience in various competitions has deepened my interest in a critical area of deep learning: building robust perception systems for autonomous vehicles.**
+🚗 **My goal is Building robust vision systems for autonomous vehicles.**
 
-🦾 **I am particularly focused on developing solutions that can withstand adversarial attacks and prevent model stealing.**
+🦾 **Now I am particularly focused on developing solutions that can withstand adversarial attacks and prevent model stealing.**
 
 📫 **You can contact me at  cds730@naver.com**
 
