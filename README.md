@@ -9,6 +9,8 @@
 
 🦾 **I am particularly focused on developing solutions that can withstand adversarial attacks and prevent model stealing.**
 
+📫 **you can contact me at  cds730@naver.com**
+
 <!--
 📫 **e-mail:  cds730@naver.com**
 🏫 **College:  [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do)**
