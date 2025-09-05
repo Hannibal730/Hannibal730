@@ -3,13 +3,13 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hannibal730.Hannibal730)
 -->
 
-📊 **As a Statistics student with a passion for practical application, I am a contributing member of my university's robotics club, where I actively participate on the autonomous driving team.**
+📊 **I'm maajored in Statistics and contributing member of my university's robotics club, where I actively participate on the autonomous driving team.**
 
 🚗 **My hands-on experience in various competitions has deepened my interest in a critical area of deep learning: building robust perception systems for autonomous vehicles.**
 
 🦾 **I am particularly focused on developing solutions that can withstand adversarial attacks and prevent model stealing.**
 
-📫 **you can contact me at  cds730@naver.com**
+📫 **You can contact me at  cds730@naver.com**
 
 <!--
 📫 **e-mail:  cds730@naver.com**
