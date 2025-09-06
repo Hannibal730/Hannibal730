@@ -38,7 +38,7 @@
 
 <br>
 
-# Ongoing team project
+# Ongoing project
 * ## 2025.08 ~ 
    
    | [Mando HL Klemove Autonomous Driving Competition](https://www.swuniv.kr/notice/?bmode=view&idx=164215587) |
