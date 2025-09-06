@@ -60,7 +60,7 @@
 
 * ## 2024.12 ~ 2025.07
    
-   | [🥈 The 4th International EV Autonomous Driving Competition](https://github.com/Highsky7/dol_dol_dol_ws)|
+   | [🥈 The 4th International university student EV Autonomous driving Competition](https://github.com/Highsky7/dol_dol_dol_ws)|
    | :-------------------------------------------------------------------------------------------- |
    | My role: 3D detection with RRT path planning & Sensor fusion of GPS and 3D LiDAR |
    | <img src="https://github.com/user-attachments/assets/865b7238-8541-423f-a95f-5fc8acfe7ab1" width="200" alt="predict Example" /> |
