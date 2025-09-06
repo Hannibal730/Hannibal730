@@ -8,7 +8,7 @@
 
 ### 📊 **Majored in Statistics in Konkuk Univ, member of robotics club's Autonomous driving team.**
 
-### 🚗 **My goal is Building robust vision systems for autonomous vehicles.**
+### 🚗 **My goal is building Robust vision systems for Autonomous vehicles.**
 
 ### 🦾 **Now I am particularly focused on developing Adversarial attacks and Model stealing.**
 
