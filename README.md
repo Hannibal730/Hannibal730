@@ -50,7 +50,7 @@
 
 # Completed projects
 
-* ## 2025.08 ~ 2025.09
+* ## 2025.09
    
    | [Eye gazing point Tracker with logitech webcam C920 PRO](https://github.com/Hannibal730/Eye_track/tree/main)|
    | :-------------------------------------------------------------------------------------------- |
