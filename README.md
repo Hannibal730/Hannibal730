@@ -60,13 +60,13 @@
 
 * ## 2024.12 ~ 2025.07
    
-   | [(Second prize) The 4th International EV Autonomous Driving Competition](https://github.com/Highsky7/dol_dol_dol_ws)|
+   | [🥈 The 4th International EV Autonomous Driving Competition](https://github.com/Highsky7/dol_dol_dol_ws)|
    | :-------------------------------------------------------------------------------------------- |
    | My role: 3D detection with RRT path planning & Sensor fusion of GPS and 3D LiDAR |
+   | <img src="https://github.com/user-attachments/assets/865b7238-8541-423f-a95f-5fc8acfe7ab1" width="200" alt="predict Example" /> |
    | <img src="https://github.com/user-attachments/assets/72edc9fe-0ec0-4158-8052-e24667f2eda4" width="600" alt="predict Example" /> |
    | <img src="https://github.com/user-attachments/assets/353e2174-0c01-479e-a3d0-b61426541057" width="200" alt="predict Example" /> |
    | <img src="https://github.com/user-attachments/assets/4c3744fe-3178-4c2b-9188-b5b4c59fa2d2" width="200" alt="predict Example" /> |
-
 
    <!--| <img src="https://github.com/user-attachments/assets/8cc75928-249b-4a52-b70f-abfa284b0144" width="180" alt="predict Example" /> | -->
   
@@ -116,7 +116,7 @@
 
 * ## 2024.06
 
-   | [Autonomous driving model learned by Pytorch Transfer Learning](https://github.com/Hannibal730/KONKUK-Univ_Autonomous-Driving-Competition ) |
+   | [🥇 Autonomous driving model learned by Pytorch Transfer Learning](https://github.com/Hannibal730/KONKUK-Univ_Autonomous-Driving-Competition ) |
    | :-------------------------------------------------------------------------------------------- |
    | <img src="https://github.com/user-attachments/assets/cbbcbb5f-a21a-42d7-96b6-b477d0f0e6d5" alt="ezgif com-video-to-gif-converter" width="400">   |
    
