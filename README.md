@@ -57,6 +57,7 @@
    | <img src="https://github.com/user-attachments/assets/3887fa4d-d510-4004-95ab-91bf04c8b868" width="600" alt="predict Example" /> |
    | <img src="https://github.com/user-attachments/assets/e8299c62-69e0-41aa-a07d-2bc1ba777d7d" width="200" alt="predict Example" /> |
 
+<br>
 
 * ## 2024.12 ~ 2025.07
    
