@@ -41,7 +41,7 @@
 # Ongoing project
 * ## 2025.08 ~ 
    
-   | [Mando HL Klemove Autonomous Driving Competition](https://www.swuniv.kr/notice/?bmode=view&idx=164215587) |
+   | [Mando HL Klemove Autonomous Driving Competition](https://github.com/Hannibal730/Mandol_ws) |
    | :-------------------------------------------------------------------------------------------- |
    | <img src="https://github.com/user-attachments/assets/b668711f-89e5-47d5-9d99-afc96a72787c" width="200" alt="predict Example" /> |
 
