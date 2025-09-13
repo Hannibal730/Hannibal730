@@ -66,7 +66,7 @@
    
    | [🥈 The 4th International university student EV Autonomous driving Competition](https://github.com/Highsky7/dol_dol_dol_ws)|
    | :-------------------------------------------------------------------------------------------- |
-   | My role: 3D detection with RRT path planning & Sensor fusion of GPS and 3D LiDAR |
+   | I was in charge of 3D Lidar detection, RRT path planning, Sensor fusion of GPS and 3D LiDAR |
    | <img src="https://github.com/user-attachments/assets/865b7238-8541-423f-a95f-5fc8acfe7ab1" width="200" alt="predict Example" /> |
    | <img src="https://github.com/user-attachments/assets/353e2174-0c01-479e-a3d0-b61426541057" width="200" alt="predict Example" /> |
    | <img src="https://github.com/user-attachments/assets/72edc9fe-0ec0-4158-8052-e24667f2eda4" width="600" alt="predict Example" /> |
