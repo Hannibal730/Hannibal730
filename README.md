@@ -6,7 +6,7 @@
 <!--<img width="3773" height="1227" alt="그림2" src="https://github.com/user-attachments/assets/f44ca0da-4fb5-40a8-99f4-53281c4f6d4f" />-->
 
 
-| <img src="https://github.com/user-attachments/assets/f40b343c-3481-47dd-95f1-e35a8f5a8b29" width="900" alt="predict Example" /> | 📊 **Majored in Statistics in Konkuk Univ, member of robotics club's Autonomous driving team.**<br><br>🚗 **My goal is building Robust vision models for Autonomous systems.**<br><br>🦾 **Now I am particularly focused on developing Adversarial attacks and Model stealing.**<br><br>📫 **You can contact me at  cds730@naver.com**  |
+| <img src="https://github.com/user-attachments/assets/f40b343c-3481-47dd-95f1-e35a8f5a8b29" width="900" alt="predict Example" /> | 📊 **Majored in Statistics at Konkuk Univ, member of robotics club's Autonomous driving team.**<br><br>🚗 **My goal is building Robust vision models for Autonomous systems.**<br><br>🦾 **Now I am particularly focused on developing Adversarial attacks and Model stealing.**<br><br>📫 **You can contact me at  cds730@naver.com**  |
 | :--- | :--- |
 
 <!--
