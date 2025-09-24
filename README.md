@@ -47,7 +47,7 @@
    | [Mando HL Klemove Autonomous Driving Competition](https://github.com/Hannibal730/Mandol_ws) |
    | :-------------------------------------------------------------------------------------------- |
    | <img src="https://github.com/user-attachments/assets/b668711f-89e5-47d5-9d99-afc96a72787c" width="200" alt="predict Example" /> |
-   | <img src="https://github.com/user-attachments/assets/07497c13-88b8-47b1-a4df-44cf2cda59db" width="600" alt="predict Example" /> |
+   | <img src="https://github.com/user-attachments/assets/69047e60-e907-43ad-8da6-3f476f8831da" width="600" alt="predict Example" /> |
 
 <br>
 
