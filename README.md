@@ -46,6 +46,7 @@
    
    | [Mando HL Klemove Autonomous Driving Competition](https://github.com/Hannibal730/Mandol_ws) |
    | :-------------------------------------------------------------------------------------------- |
+   | **My Role**: Global path planning based Purepursuit with GPS sensors  |
    | <img src="https://github.com/user-attachments/assets/b668711f-89e5-47d5-9d99-afc96a72787c" width="200" alt="predict Example" /> |
    | <img src="https://github.com/user-attachments/assets/69047e60-e907-43ad-8da6-3f476f8831da" width="600" alt="predict Example" /> |
 
@@ -66,7 +67,7 @@
    
    | [🥈 The 4th International university student EV Autonomous driving Competition](https://github.com/Highsky7/dol_dol_dol_ws)|
    | :-------------------------------------------------------------------------------------------- |
-   | I was in charge of 3D Lidar detection, RRT path planning, Sensor fusion of GPS and 3D LiDAR |
+   | **My Role**: 3D Lidar detection, RRT path planning, Sensor fusion of GPS and 3D LiDAR |
    | <img src="https://github.com/user-attachments/assets/865b7238-8541-423f-a95f-5fc8acfe7ab1" width="200" alt="predict Example" /> |
    | <img src="https://github.com/user-attachments/assets/353e2174-0c01-479e-a3d0-b61426541057" width="200" alt="predict Example" /> |
    | <img src="https://github.com/user-attachments/assets/72edc9fe-0ec0-4158-8052-e24667f2eda4" width="600" alt="predict Example" /> |
@@ -114,6 +115,7 @@
 
    | [🥇 Autonomous driving model learned by Pytorch Transfer Learning](https://github.com/Hannibal730/KONKUK-Univ_Autonomous-Driving-Competition ) |
    | :-------------------------------------------------------------------------------------------- |
+   | **My Role**: Train Real-time direction classification model  |
    | <img src="https://github.com/user-attachments/assets/cbbcbb5f-a21a-42d7-96b6-b477d0f0e6d5" alt="ezgif com-video-to-gif-converter" width="400">   |
    
    |Label|Preprocessed <br> train sample|
