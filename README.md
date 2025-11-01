@@ -117,13 +117,14 @@
    | :-------------------------------------------------------------------------------------------- |
    | **My Role**: Train Real-time direction classification model  |
    | <img src="https://github.com/user-attachments/assets/cbbcbb5f-a21a-42d7-96b6-b477d0f0e6d5" alt="ezgif com-video-to-gif-converter" width="400">   |
-   
+
+<!--
    |Label|Preprocessed <br> train sample|
    |:---:|:---:|
    |go|<img src="https://github.com/user-attachments/assets/95112164-7efa-46c3-af64-9926aae694b3" width="100" alt="Image"> |
    |left|<img src="https://github.com/user-attachments/assets/85175b2b-5a76-460c-bf55-6e8d5ac9a00f" width="100" alt="Image"> |
    |right|<img src="https://github.com/user-attachments/assets/8ba87864-7ac3-47da-8831-2f9b69dc81dc" width="100" alt="Image"> |
-    
+-->
 
 
 
