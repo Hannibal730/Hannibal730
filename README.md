@@ -42,7 +42,7 @@
 <br>
 
 # Ongoing project
-* ## 2025.08 ~ 
+* ## 2025.06 ~ 2025.09 
    
    | [Mando HL Klemove Autonomous Driving Competition](https://github.com/Hannibal730/Mandol_ws) |
    | :-------------------------------------------------------------------------------------------- |
