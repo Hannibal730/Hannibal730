@@ -39,11 +39,22 @@
 <img src="./profile-3d-contrib/profile-night-green.svg" width="500" />
 -->
 
+<!--
+
 <br>
 
 # Ongoing project
-* ## 2025.06 ~ 2025.09 
-   
+
+
+-->
+
+
+<br>
+
+# Completed projects
+
+* ## 2025.06 ~ 2025.09
+ 
    | [Mando HL Klemove Autonomous Driving Competition](https://github.com/Hannibal730/Mandol_ws) |
    | :-------------------------------------------------------------------------------------------- |
    | **My Role**: Global path planning based Purepursuit with GPS sensors  |
@@ -51,8 +62,6 @@
    | <img src="https://github.com/user-attachments/assets/69047e60-e907-43ad-8da6-3f476f8831da" width="600" alt="predict Example" /> |
 
 <br>
-
-# Completed projects
 
 * ## 2025.09
    
