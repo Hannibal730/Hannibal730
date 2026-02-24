@@ -14,13 +14,13 @@
 
 
 
-### 📊 **Majored in Statistics in Konkuk Univ, Team Leader of robotics club's autonomous driving team.**
+### 📊 B.S. in Applied Statistics, Konkuk University (2028.02)
 
-### 🚗 **My goal is building robust systems for autonomous vehicles.**
+### 🚗 Autonomous Driving Team Leader @ Konkuk Univ. Robotics Club
 
-### 🦾 **Now I am particularly focused on studying adversarial attacks and model extraction.**
+### 🦾 Research Interests: Adversarial Attacks & Model Extraction for Robust Autonomous Driving Systems
 
-### 📫 **You can contact me via  cds730@naver.com**
+### 📫 Reach me via cds730@naver.com
 
 <!--
 📫 **e-mail:  cds730@naver.com**
