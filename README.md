@@ -51,7 +51,7 @@
 
 # Ongoing project
 
-## 2026.01 ~ 
+## 2026.12 ~ 
 
 | The 5th International university student EV Autonomous driving Competition |
 | :-------------------------------------------------------------------------------------------- |
