@@ -14,13 +14,13 @@
 
 
 
-### 📊 **Majored in Statistics in Konkuk Univ, member of robotics club's Autonomous driving team.**
+### 📊 **Majored in Statistics in Konkuk Univ, Team Leader of robotics club's autonomous driving team.**
 
-### 🚗 **My goal is building Robust vision systems for Autonomous vehicles.**
+### 🚗 **My goal is building robust systems for autonomous vehicles.**
 
-### 🦾 **Now I am particularly focused on developing Adversarial attacks and Model stealing.**
+### 🦾 **Now I am particularly focused on studying adversarial attacks and model extraction.**
 
-### 📫 **You can contact me at  cds730@naver.com**
+### 📫 **You can contact me via  cds730@naver.com**
 
 <!--
 📫 **e-mail:  cds730@naver.com**
