@@ -8,8 +8,7 @@
 
 <!--| <img src="https://github.com/user-attachments/assets/f40b343c-3481-47dd-95f1-e35a8f5a8b29" width="900" alt="predict Example" /> | 📊 **Majored in Statistics at Konkuk Univ, member of robotics club's Autonomous driving team.**<br><br>🚗 **My goal is building Robust vision models for Autonomous systems.**<br><br>🦾 **Now I am particularly focused on developing Adversarial attacks and Model stealing.**<br><br>📫 **You can contact me at  cds730@naver.com**  |
 | :--- | :--- | -->
-
-| <img src="https://github.com/user-attachments/assets/f40b343c-3481-47dd-95f1-e35a8f5a8b29" width="400" alt="predict Example" /> | <img src="https://github.com/user-attachments/assets/b8747754-d8b1-4263-b464-84146f8e37d3" width="400" alt="Team Photo" />|
+| <img src="https://github.com/user-attachments/assets/b8747754-d8b1-4263-b464-84146f8e37d3" width="400" alt="Team Photo" /> | <img src="https://github.com/user-attachments/assets/f40b343c-3481-47dd-95f1-e35a8f5a8b29" width="400" alt="predict Example" /> |
 | :--- | :--- |
 
 
