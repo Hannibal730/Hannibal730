@@ -13,7 +13,7 @@
 
 
 
-### 📊 B.S. in Applied Statistics, Konkuk University (2028.02)
+### 📊 B.S. in Applied Statistics, Konkuk University (2022.03~2028.02)
 
 ### 🚗 Autonomous Driving Team Leader @ Konkuk Univ. Robotics Club
 
