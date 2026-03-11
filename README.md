@@ -13,9 +13,11 @@
 
 
 
-### 📊 B.S. in Applied Statistics, Konkuk University (2022.03~2028.02)
+### 📊 B.S. in Applied Statistics, Konkuk University
+- **Admission:** 2022.03
+- **Expected Graduation:** 2028.02
 
-### 🚗 Autonomous Driving Team@ Konkuk Univ. Robotics Club
+### 🚗 Autonomous Driving Team @ Konkuk Univ. Robotics Club
 - **Team Leader** (2025.12 ~ Present)
 - **Team Member** (2024.09 ~ 2025.12)
 
