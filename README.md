@@ -15,9 +15,12 @@
 
 ### 📊 B.S. in Applied Statistics, Konkuk University (2022.03~2028.02)
 
-### 🚗 Autonomous Driving Team Leader @ Konkuk Univ. Robotics Club
+### 🚗 Autonomous Driving Team@ Konkuk Univ. Robotics Club
+- **Team Leader** (2025.12 ~ Present)
+- **Team Member** (2024.09 ~ 2025.12)
 
 ### 🦾 Research Interests: Adversarial Attacks & Model Extraction for Robust Autonomous Driving Systems
+- **Undergraduate Researcher** @ [Trustworthy AI](https://trustworthyai.co.kr/) (2025.07 ~ Present)
 
 ### 📫 Reach me via cds730@naver.com
 
