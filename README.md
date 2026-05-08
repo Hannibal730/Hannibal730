@@ -55,12 +55,8 @@
 
 # Ongoing project
 
-## 2026.12 ~ 
 
-| The 5th International university student EV Autonomous driving Competition |
-| :-------------------------------------------------------------------------------------------- |
-| **My Role**: Team Leader  |
-| <img src="https://github.com/user-attachments/assets/6e03670c-3841-49cc-8e05-c620130b4a84" width="400" alt="Curve Navigation"> |
+
 
 
 
@@ -69,6 +65,15 @@
 <br>
 
 # Completed projects
+
+## 2025.12 ~ 2026.04
+
+| The 5th International university student EV Autonomous driving Competition |
+| :-------------------------------------------------------------------------------------------- |
+| **My Role**: Team Leader  |
+| <img src="https://github.com/user-attachments/assets/6e03670c-3841-49cc-8e05-c620130b4a84" width="400" alt="Curve Navigation"> |
+
+<br>
 
 ## 2025.06 ~ 2025.09
  
