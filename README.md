@@ -39,7 +39,8 @@
 ![ROS](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 <!--
 [![Hannibal730’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hannibal730&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
