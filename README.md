@@ -9,24 +9,20 @@
 
 
 ### 📊 B.S. in Applied Statistics, Konkuk University
-- **Admission:** 2022.03
 - **Expected Graduation:** 2028.02
+- **Admission:** 2022.03
 
 ### 🚗 Autonomous Driving Team @ Konkuk Univ. Robotics Club
 - **Team Leader** (2025.12 ~ Present)
 - **Team Member** (2024.09 ~ 2025.12)
 
-### 🦾 Research Interests: Adversarial Attacks & Model Extraction for Robust Autonomous Driving Systems
+### 🦾 Research Interests: Enhancing Robustness of Autonomous Driving Systems
 - **Undergraduate Researcher** @ [Trustworthy AI](https://trustworthyai.co.kr/) (2025.07 ~ 2026.06)
 
-### 📫 Reach me via cds730@naver.com
+### 📫 Reach me at
+- cds730@naver.com
 
-<!--
-📫 **e-mail:  cds730@naver.com**
-🏫 **College:  [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do)**
-📊 **Primary major:  [Applied Statistics](https://stat.konkuk.ac.kr/stat/index.do)**
-🏭 **Double major:  [Industrial Engineering](https://kies.konkuk.ac.kr/kies/index.do)**
--->
+### 💻 Stacks 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
