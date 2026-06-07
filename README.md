@@ -3,14 +3,9 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hannibal730.Hannibal730)
 -->
 
-<!--<img width="3773" height="1227" alt="그림2" src="https://github.com/user-attachments/assets/f44ca0da-4fb5-40a8-99f4-53281c4f6d4f" />-->
 
-
-<!--| <img src="https://github.com/user-attachments/assets/f40b343c-3481-47dd-95f1-e35a8f5a8b29" width="900" alt="predict Example" /> | 📊 **Majored in Statistics at Konkuk Univ, member of robotics club's Autonomous driving team.**<br><br>🚗 **My goal is building Robust vision models for Autonomous systems.**<br><br>🦾 **Now I am particularly focused on developing Adversarial attacks and Model stealing.**<br><br>📫 **You can contact me at  cds730@naver.com**  |
-| :--- | :--- | -->
-| <img src="https://github.com/user-attachments/assets/b8747754-d8b1-4263-b464-84146f8e37d3" width="400" alt="Team Photo" /> | <img src="https://github.com/user-attachments/assets/f40b343c-3481-47dd-95f1-e35a8f5a8b29" width="400" alt="predict Example" /> |
-| :--- | :--- |
-
+| <img src="https://github.com/user-attachments/assets/e2955f04-f05c-44d1-9308-7223a0c1a2b2" width="300" alt="jeju2026" /> | <img src="https://github.com/user-attachments/assets/642d40e3-895e-4910-afb0-932322770ab8" width="300" alt="mando2025" /> | <img src="https://github.com/user-attachments/assets/f40b343c-3481-47dd-95f1-e35a8f5a8b29" width="300" alt="jeju2025" /> |
+| :--- | :--- | :--- |
 
 
 ### 📊 B.S. in Applied Statistics, Konkuk University
@@ -22,7 +17,7 @@
 - **Team Member** (2024.09 ~ 2025.12)
 
 ### 🦾 Research Interests: Adversarial Attacks & Model Extraction for Robust Autonomous Driving Systems
-- **Undergraduate Researcher** @ [Trustworthy AI](https://trustworthyai.co.kr/) (2025.07 ~ Present)
+- **Undergraduate Researcher** @ [Trustworthy AI](https://trustworthyai.co.kr/) (2025.07 ~ 2026.06)
 
 ### 📫 Reach me via cds730@naver.com
 
