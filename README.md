@@ -47,8 +47,12 @@
 
 # Ongoing project
 
+## 2026.05 ~ 
 
-
+| 2026 Mando HL Klemove Autonomous Driving Competition |
+| :-------------------------------------------------------------------------------------------- |
+| **My Role**: Team Leader  |
+| <img src="https://github.com/user-attachments/assets/ca72aac6-35a2-4ec5-ac33-387d493edbc2" width="400" alt="Curve Navigation"> |
 
 
 
@@ -69,7 +73,7 @@
 
 ## 2025.06 ~ 2025.09
  
-| [🏆 Mando HL Klemove Autonomous Driving Competition](https://github.com/Hannibal730/Mandol_ws) |
+| [🏆 2025 Mando HL Klemove Autonomous Driving Competition](https://github.com/Hannibal730/Mandol_ws) |
 | :-------------------------------------------------------------------------------------------- |
 | **My Role**: Techical Director / Path planning based Purepursuit with GPS sensors  |
 | <img src="https://github.com/user-attachments/assets/64dd7dbc-1c07-494a-85b3-49af38677810" width="100%" alt="Curve Navigation"> |
