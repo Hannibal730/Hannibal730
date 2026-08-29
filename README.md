@@ -45,6 +45,7 @@
 
 <br>
 
+<!--
 # Ongoing project
 
 ## 2026.05 ~ 
@@ -54,8 +55,7 @@
 | **My Role**: Team Leader  |
 | <img src="https://github.com/user-attachments/assets/ca72aac6-35a2-4ec5-ac33-387d493edbc2" width="400" alt="Curve Navigation"> |
 
-
-
+-->-
 ---
 
 <br>
