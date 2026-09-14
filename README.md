@@ -33,19 +33,19 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-<!--
-[![Hannibal730’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hannibal730&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
 
-<!--
+[![Hannibal730’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hannibal730&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 <img src="./profile-3d-contrib/profile-night-green.svg" width="500" />
--->
+
 
 
 
 <br>
 
-<!--
+
 # Ongoing project
 
 ## 2026.05 ~ 
@@ -55,7 +55,7 @@
 | **My Role**: Team Leader  |
 | <img src="https://github.com/user-attachments/assets/ca72aac6-35a2-4ec5-ac33-387d493edbc2" width="400" alt="Curve Navigation"> |
 
--->-
+
 ---
 
 <br>
