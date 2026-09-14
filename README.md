@@ -1,7 +1,7 @@
 
-<!--
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hannibal730.Hannibal730)
--->
+
 
 
 | <img src="https://github.com/user-attachments/assets/e2955f04-f05c-44d1-9308-7223a0c1a2b2" width="300" alt="jeju2026" /> | <img src="https://github.com/user-attachments/assets/642d40e3-895e-4910-afb0-932322770ab8" width="300" alt="mando2025" /> | <img src="https://github.com/user-attachments/assets/f40b343c-3481-47dd-95f1-e35a8f5a8b29" width="300" alt="jeju2025" /> |
@@ -34,8 +34,9 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 
+<!--
 [![Hannibal730’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hannibal730&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+-->
 
 
 <img src="./profile-3d-contrib/profile-night-green.svg" width="500" />
