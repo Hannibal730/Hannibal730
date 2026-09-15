@@ -68,7 +68,7 @@
 | [The 5th International university student EV Autonomous driving Competition](https://github.com/Hannibal730/Jejudol_ws) |
 | :-------------------------------------------------------------------------------------------- |
 | **My Role**: Team Leader  |
-| <img src="https://github.com/user-attachments/assets/6e03670c-3841-49cc-8e05-c620130b4a84" width="400" alt="Curve Navigation"> |
+| <img src="https://github.com/user-attachments/assets/e335146a-d55e-46ad-8089-03c9711fd0f3" width="600" alt="Curve Navigation"> |
 
 <br>
 
