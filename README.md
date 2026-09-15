@@ -65,7 +65,7 @@
 
 ## 2025.12 ~ 2026.04
 
-| The 5th International university student EV Autonomous driving Competition |
+| [The 5th International university student EV Autonomous driving Competition](https://github.com/Hannibal730/Jejudol_ws) |
 | :-------------------------------------------------------------------------------------------- |
 | **My Role**: Team Leader  |
 | <img src="https://github.com/user-attachments/assets/6e03670c-3841-49cc-8e05-c620130b4a84" width="400" alt="Curve Navigation"> |
@@ -82,6 +82,7 @@
 | <img src="https://github.com/user-attachments/assets/64dd7dbc-1c07-494a-85b3-49af38677810" width="100%" alt="Curve Navigation"> |
 | <img src="https://github.com/user-attachments/assets/69047e60-e907-43ad-8da6-3f476f8831da" width="600" alt="predict Example" /> |
 
+-->
 <br>
 
 ## 2025.09
