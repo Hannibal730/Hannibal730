@@ -79,7 +79,7 @@
 | [🏆 2025 Mando HL Klemove Autonomous Driving Competition](https://github.com/Hannibal730/Mandol_ws) |
 | :-------------------------------------------------------------------------------------------- |
 | **My Role**: Techical Director / Path planning based Purepursuit with GPS sensors  |
-| <img src="https://github.com/user-attachments/assets/64dd7dbc-1c07-494a-85b3-49af38677810" width="100%" alt="Curve Navigation"> |
+| <img src="https://github.com/user-attachments/assets/64dd7dbc-1c07-494a-85b3-49af38677810" width="600" alt="Curve Navigation"> |
 <!--
 | <img src="https://github.com/user-attachments/assets/69047e60-e907-43ad-8da6-3f476f8831da" width="600" alt="predict Example" /> |
 -->
