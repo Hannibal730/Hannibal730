@@ -35,8 +35,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </div>
 
-<br>
-
 ## Contact
 - **Email:** [cds730@naver.com](mailto:cds730@naver.com)
 - **LinkedIn:** [hannibal730](www.linkedin.com/in/hannibal730)
@@ -58,23 +56,28 @@
 <br>
 
 
+<!--
 # Ongoing project
 
-## 2026.05 ~ 2026.09
+
+---
+
+<br>
+-->
+
+# Completed projects
+
+### 2026.05 ~ 2026.09
 
 | 2026 Mando HL Klemove Autonomous Driving Competition |
 | :-------------------------------------------------------------------------------------------- |
 | **My Role**: Team Leader  |
 | <img src="https://github.com/user-attachments/assets/ca72aac6-35a2-4ec5-ac33-387d493edbc2" width="400" alt="Curve Navigation"> |
 
-
----
-
 <br>
 
-# Completed projects
 
-## 2025.12 ~ 2026.04
+### 2025.12 ~ 2026.04
 
 | [The 5th International university student EV Autonomous driving Competition](https://github.com/Hannibal730/Jejudol_ws) |
 | :-------------------------------------------------------------------------------------------- |
@@ -85,7 +88,7 @@
 
 
 
-## 2025.06 ~ 2025.09
+### 2025.06 ~ 2025.09
  
 | [🏆 2025 Mando HL Klemove Autonomous Driving Competition](https://github.com/Hannibal730/Mandol_ws) |
 | :-------------------------------------------------------------------------------------------- |
@@ -97,7 +100,7 @@
 
 <br>
 
-## 2025.09
+### 2025.09
    
 | [Eye gazing point Tracker with logitech webcam C920 PRO](https://github.com/Hannibal730/Eye_track/tree/main)|
 | :-------------------------------------------------------------------------------------------- |
@@ -105,7 +108,7 @@
 
 <br>
 
-## 2024.12 ~ 2025.07
+### 2024.12 ~ 2025.07
    
 | [🏆 The 4th International university student EV Autonomous driving Competition](https://github.com/Highsky7/dol_dol_dol_ws)|
 | :-------------------------------------------------------------------------------------------- |
@@ -122,7 +125,7 @@
 <br>
 
 
-## 2025.06
+### 2025.06
 | [3D-Lidar-wall-detection with Ransac](https://github.com/Hannibal730/3D-Lidar-wall-detection_ws) |
 | :-------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/user-attachments/assets/d5885917-0a70-46a8-8bc6-dbf568cefc94" width="600" alt="predict Example" /> |
@@ -130,7 +133,7 @@
 
 <br>
 
-## 2024.12 ~ 2025.04
+### 2024.12 ~ 2025.04
 
 | [3D Multi‑Object Tracking & Future-Position Prediction with Kalman Filter](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
 | :-------------------------------------------------------------------------------------------- |
@@ -141,7 +144,7 @@
 
 <br>
 
-## 2024.09 ~ 2024.11
+### 2024.09 ~ 2024.11
 
 | [Lane Detection & Pure Pursuit for Steering Angle of Local Path Planning](https://github.com/Hannibal730/SlidingWindow-LaneDetection-PurePursuit) |
 | :-------------------------------------------------------------------------------------------- |
@@ -151,7 +154,7 @@
 
 <br>
 
-## 2024.06
+### 2024.06
 
 | [🥇 Autonomous driving model learned by Pytorch Transfer Learning](https://github.com/Hannibal730/KONKUK-Univ_Autonomous-Driving-Competition ) |
 | :-------------------------------------------------------------------------------------------- |
