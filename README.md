@@ -1,35 +1,45 @@
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hannibal730.Hannibal730)
+# Daeseung Choi (Hannibal730)
+**"Enhancing the Robustness of Autonomous Driving Systems"**
+
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hannibal730.Hannibal730)](https://github.com/Hannibal730)
 
 
+| <img src="https://github.com/user-attachments/assets/e2955f04-f05c-44d1-9308-7223a0c1a2b2" width="280" alt="jeju2026" /> | <img src="https://github.com/user-attachments/assets/642d40e3-895e-4910-afb0-932322770ab8" width="280" alt="mando2025" /> | <img src="https://github.com/user-attachments/assets/f40b343c-3481-47dd-95f1-e35a8f5a8b29" width="280" alt="jeju2025" /> |
+| :---: | :---: | :---: |
+| **2025.12 ~ 2026.04** | **2025.06 ~ 2025.09** | **2024.12 ~ 2025.07** |
 
-| <img src="https://github.com/user-attachments/assets/e2955f04-f05c-44d1-9308-7223a0c1a2b2" width="300" alt="jeju2026" /> | <img src="https://github.com/user-attachments/assets/642d40e3-895e-4910-afb0-932322770ab8" width="300" alt="mando2025" /> | <img src="https://github.com/user-attachments/assets/f40b343c-3481-47dd-95f1-e35a8f5a8b29" width="300" alt="jeju2025" /> |
-| :--- | :--- | :--- |
+<br>
+
+## Education & Research
+- **B.S. in Applied Statistics, Konkuk University** (Mar 2022 – Expected Feb 2028)
+- **Undergraduate Researcher, [Trustworthy AI](https://trustworthyai.co.kr/)** (Jul 2025 – Jun 2026)
+  - **Research Focus**
+    - Query-Based Model Extraction Attacks against Image Classification
+    - Adversarial Attacks against Image Models
 
 
-### 📊 B.S. in Applied Statistics, Konkuk University
-- **Expected Graduation:** 2028.02
-- **Admission:** 2022.03
+## Extracurricular Activities
+- **Autonomous Driving Team, Konkuk Univ. Robotics Club (Dolbat)**
+  - **Team Leader** (Dec 2025 – Present)
+  - **Team Member** (Sep 2024 – Dec 2025)
 
-### 🚗 Autonomous Driving Team @ Konkuk Univ. Robotics Club
-- **Team Leader** (2025.12 ~ Present)
-- **Team Member** (2024.09 ~ 2025.12)
+## Technical Skills
+<div align="left">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS_1-22314E?style=flat-square&logo=ROS&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ROS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+</div>
 
-### 🦾 Research Interests: Enhancing Robustness of Autonomous Driving Systems
-- **Undergraduate Researcher** @ [Trustworthy AI](https://trustworthyai.co.kr/) (2025.07 ~ 2026.06)
+<br>
 
-### 📫 Reach me at
-- cds730@naver.com
-
-### 💻 Stacks 
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![ROS1](https://img.shields.io/badge/ROS1-22314E?style=for-the-badge&logo=ROS&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## Contact
+- **Email:** [cds730@naver.com](mailto:cds730@naver.com)
+- **LinkedIn:** [hannibal730](www.linkedin.com/in/hannibal730)
 <!--![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 -->
 
@@ -41,6 +51,8 @@
 <img src="./profile-3d-contrib/profile-night-green.svg" width="500" />
 -->
 
+
+---
 
 
 <br>
