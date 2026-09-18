@@ -134,10 +134,7 @@
 
 | [Lane Detection & Pure Pursuit for Steering Angle of Local Path Planning](https://github.com/Hannibal730/SlidingWindow-LaneDetection-PurePursuit) |
 | :-------------------------------------------------------------------------------------------- |
-| <img src=“https://github.com/user-attachments/assets/8af660ff-cdfe-41d8-880f-44d99075492e" width="600" alt="predict Example" /> |
-
-
-
+| <img src="https://github.com/user-attachments/assets/8af660ff-cdfe-41d8-880f-44d99075492e" width="600" alt="predict Example" /> |
 
 
 
