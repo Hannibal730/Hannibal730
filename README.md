@@ -19,11 +19,14 @@
     - Query-Based Model Extraction Attacks against Image Classification
     - Adversarial Attacks against Image Models
 
+<br>
 
 ## Extracurricular Activities
 - **Autonomous Driving Team, Konkuk Univ. Robotics Club (Dolbat)**
   - **Team Leader** (Dec 2025 – Present)
   - **Team Member** (Sep 2024 – Dec 2025)
+
+<br>
 
 ## Technical Skills
 <div align="left">
@@ -35,9 +38,11 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </div>
 
+<!--
 ## Contact
 - **Email:** [cds730@naver.com](mailto:cds730@naver.com)
 - **LinkedIn:** [hannibal730](www.linkedin.com/in/hannibal730)
+-->
 <!--![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 -->
 
@@ -49,117 +54,96 @@
 <img src="./profile-3d-contrib/profile-night-green.svg" width="500" />
 -->
 
-
----
-
-
-<br>
-
-
 <!--
-# Ongoing project
-
-
----
-
-<br>
+## Ongoing project
 -->
 
-# Completed projects
+<br>
 
-### 2026.05 ~ 2026.09
+## Projects
 
-| 2026 Mando HL Klemove Autonomous Driving Competition |
-| :-------------------------------------------------------------------------------------------- |
-| **My Role**: Team Leader  |
-| <img src="https://github.com/user-attachments/assets/ca72aac6-35a2-4ec5-ac33-387d493edbc2" width="400" alt="Curve Navigation"> |
+  - ### 2026.05 ~ 2026.09
+  
+    | 2026 Mando HL Klemove Autonomous Driving Competition |
+    | :-------------------------------------------------------------------------------------------- |
+    | **My Role**: Team Leader  |
+    | <img src="https://github.com/user-attachments/assets/ca72aac6-35a2-4ec5-ac33-387d493edbc2" width="400" alt="Curve Navigation"> |
 
 <br>
 
-
-### 2025.12 ~ 2026.04
-
-| [The 5th International university student EV Autonomous driving Competition](https://github.com/Hannibal730/Jejudol_ws) |
-| :-------------------------------------------------------------------------------------------- |
-| **My Role**: Team Leader  |
-| <img src="https://github.com/user-attachments/assets/e335146a-d55e-46ad-8089-03c9711fd0f3" width="600" alt="Curve Navigation"> |
+  - ### 2025.12 ~ 2026.04
+  
+    | [The 5th International university student EV Autonomous driving Competition](https://github.com/Hannibal730/Jejudol_ws) |
+    | :-------------------------------------------------------------------------------------------- |
+    | **My Role**: Team Leader  |
+    | <img src="https://github.com/user-attachments/assets/e335146a-d55e-46ad-8089-03c9711fd0f3" width="600" alt="Curve Navigation"> |
 
 <br>
 
-
-
-### 2025.06 ~ 2025.09
+  - ### 2025.06 ~ 2025.09
  
-| [🏆 2025 Mando HL Klemove Autonomous Driving Competition](https://github.com/Hannibal730/Mandol_ws) |
-| :-------------------------------------------------------------------------------------------- |
-| **My Role**: Techical Director / Path planning based Purepursuit with GPS sensors  |
-| <img src="https://github.com/user-attachments/assets/64dd7dbc-1c07-494a-85b3-49af38677810" width="600" alt="Curve Navigation"> |
-<!--
-| <img src="https://github.com/user-attachments/assets/69047e60-e907-43ad-8da6-3f476f8831da" width="600" alt="predict Example" /> |
--->
+    | [🏆 2025 Mando HL Klemove Autonomous Driving Competition](https://github.com/Hannibal730/Mandol_ws) |
+    | :-------------------------------------------------------------------------------------------- |
+    | **My Role**: Techical Director / Path planning based Purepursuit with GPS sensors  |
+    | <img src="https://github.com/user-attachments/assets/64dd7dbc-1c07-494a-85b3-49af38677810" width="600" alt="Curve Navigation"> |
+    <!--
+    | <img src="https://github.com/user-attachments/assets/69047e60-e907-43ad-8da6-3f476f8831da" width="600" alt="predict Example" /> |
+    -->
 
 <br>
 
-### 2025.09
+  - ### 2025.09
    
-| [Eye gazing point Tracker with logitech webcam C920 PRO](https://github.com/Hannibal730/Eye_track/tree/main)|
-| :-------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/3887fa4d-d510-4004-95ab-91bf04c8b868" width="600" alt="predict Example" /> |
+    | [Eye gazing point Tracker with logitech webcam C920 PRO](https://github.com/Hannibal730/Eye_track/tree/main)|
+    | :-------------------------------------------------------------------------------------------- |
+    | <img src="https://github.com/user-attachments/assets/3887fa4d-d510-4004-95ab-91bf04c8b868" width="600" alt="predict Example" /> |
 
 <br>
 
-### 2024.12 ~ 2025.07
+  - ### 2024.12 ~ 2025.07
    
-| [🏆 The 4th International university student EV Autonomous driving Competition](https://github.com/Highsky7/dol_dol_dol_ws)|
-| :-------------------------------------------------------------------------------------------- |
-| **My Role**: 3D Lidar detection, RRT path planning based on sensor fusion with GPS and 3D LiDAR |
-| <img src="https://github.com/user-attachments/assets/06c99a21-d8dd-4726-b2f3-e747c02f5827" width="200" alt="predict Example" /> |
-| <img src="https://github.com/user-attachments/assets/72edc9fe-0ec0-4158-8052-e24667f2eda4" width="600" alt="predict Example" /> |
-
-<!--| <img src="https://github.com/user-attachments/assets/353e2174-0c01-479e-a3d0-b61426541057" width="200" alt="predict Example" /> |-->
-
-<!--| <img src="https://github.com/user-attachments/assets/4c3744fe-3178-4c2b-9188-b5b4c59fa2d2" width="200" alt="predict Example" /> |-->
-
-<!--| <img src="https://github.com/user-attachments/assets/8cc75928-249b-4a52-b70f-abfa284b0144" width="180" alt="predict Example" /> | -->
+    | [🏆 The 4th International university student EV Autonomous driving Competition](https://github.com/Highsky7/dol_dol_dol_ws)|
+    | :-------------------------------------------------------------------------------------------- |
+    | **My Role**: 3D Lidar detection, RRT path planning based on sensor fusion with GPS and 3D LiDAR |
+    | <img src="https://github.com/user-attachments/assets/06c99a21-d8dd-4726-b2f3-e747c02f5827" width="200" alt="predict Example" /> |
+    | <img src="https://github.com/user-attachments/assets/72edc9fe-0ec0-4158-8052-e24667f2eda4" width="600" alt="predict Example" /> |
+    <!--| <img src="https://github.com/user-attachments/assets/353e2174-0c01-479e-a3d0-b61426541057" width="200" alt="predict Example" /> |-->
+    <!--| <img src="https://github.com/user-attachments/assets/4c3744fe-3178-4c2b-9188-b5b4c59fa2d2" width="200" alt="predict Example" /> |-->
+    <!--| <img src="https://github.com/user-attachments/assets/8cc75928-249b-4a52-b70f-abfa284b0144" width="180" alt="predict Example" /> | -->
 
 <br>
 
-
-### 2025.06
-| [3D-Lidar-wall-detection with Ransac](https://github.com/Hannibal730/3D-Lidar-wall-detection_ws) |
-| :-------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/d5885917-0a70-46a8-8bc6-dbf568cefc94" width="600" alt="predict Example" /> |
-
+  - ### 2025.06
+    | [3D-Lidar-wall-detection with Ransac](https://github.com/Hannibal730/3D-Lidar-wall-detection_ws) |
+    | :-------------------------------------------------------------------------------------------- |
+    | <img src="https://github.com/user-attachments/assets/d5885917-0a70-46a8-8bc6-dbf568cefc94" width="600" alt="predict Example" /> |
 
 <br>
 
-### 2024.12 ~ 2025.04
+  - ### 2024.12 ~ 2025.04
 
-| [3D Multi‑Object Tracking & Future-Position Prediction with Kalman Filter](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
-| :-------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/4a42cc6e-177a-4628-8e99-08fe8344e7a6" width="200" alt="predict Example" /> |
-| <img src="https://github.com/user-attachments/assets/2f300088-fca3-4832-b1d4-dda7380f6602" width="600" alt="Tracking Example" /> |
-| <img src="https://github.com/user-attachments/assets/99a2b9df-4cf4-4fdb-9738-3ba760bf70b9" width="600" alt="predict Example" /> |
-
-
-<br>
-
-### 2024.09 ~ 2024.11
-
-| [Lane Detection & Pure Pursuit for Steering Angle of Local Path Planning](https://github.com/Hannibal730/SlidingWindow-LaneDetection-PurePursuit) |
-| :-------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/8af660ff-cdfe-41d8-880f-44d99075492e" width="600" alt="predict Example" /> |
-
-
+    | [3D Multi‑Object Tracking & Future-Position Prediction with Kalman Filter](https://github.com/Hannibal730/nuScenes-3D-Detect-Track-Predict_ws) |
+    | :-------------------------------------------------------------------------------------------- |
+    | <img src="https://github.com/user-attachments/assets/4a42cc6e-177a-4628-8e99-08fe8344e7a6" width="200" alt="predict Example" /> |
+    | <img src="https://github.com/user-attachments/assets/2f300088-fca3-4832-b1d4-dda7380f6602" width="600" alt="Tracking Example" /> |
+    | <img src="https://github.com/user-attachments/assets/99a2b9df-4cf4-4fdb-9738-3ba760bf70b9" width="600" alt="predict Example" /> |
 
 <br>
 
-### 2024.06
+  - ### 2024.09 ~ 2024.11
 
-| [🥇 Autonomous driving model learned by Pytorch Transfer Learning](https://github.com/Hannibal730/KONKUK-Univ_Autonomous-Driving-Competition ) |
-| :-------------------------------------------------------------------------------------------- |
-| **My Role**: Train Real-time direction classification model  |
-| <img src="https://github.com/user-attachments/assets/cbbcbb5f-a21a-42d7-96b6-b477d0f0e6d5" alt="ezgif com-video-to-gif-converter" width="400">   |
+    | [Lane Detection & Pure Pursuit for Steering Angle of Local Path Planning](https://github.com/Hannibal730/SlidingWindow-LaneDetection-PurePursuit) |
+    | :-------------------------------------------------------------------------------------------- |
+    | <img src="https://github.com/user-attachments/assets/8af660ff-cdfe-41d8-880f-44d99075492e" width="600" alt="predict Example" /> |
+
+<br>
+
+  - ### 2024.06
+
+    | [🥇 Autonomous driving model learned by Pytorch Transfer Learning](https://github.com/Hannibal730/KONKUK-Univ_Autonomous-Driving-Competition ) |
+    | :-------------------------------------------------------------------------------------------- |
+    | **My Role**: Train Real-time direction classification model  |
+    | <img src="https://github.com/user-attachments/assets/cbbcbb5f-a21a-42d7-96b6-b477d0f0e6d5" alt="ezgif com-video-to-gif-converter" width="400">   |
 
 <!--
 |Label|Preprocessed <br> train sample|
@@ -169,15 +153,11 @@
 |right|<img src="https://github.com/user-attachments/assets/8ba87864-7ac3-47da-8831-2f9b69dc81dc" width="100" alt="Image"> |
 -->
 
-
-
-
 <!--
 
 ![Image](https://github.com/user-attachments/assets/8636e5e5-9f0b-404a-b9ab-b0bb32dffca7)
 ![Image](https://github.com/user-attachments/assets/0b65b857-051b-4677-9284-66a6822da7af)
 ![Image](https://github.com/user-attachments/assets/45a4bb4e-2693-4ca1-a9e5-62a8b052d0e3)
-
 
 ![Hannibal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hannibal730&show_icons=true&count_private=true&theme=radical)
 
