@@ -6,6 +6,10 @@
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hannibal730.Hannibal730)](https://github.com/Hannibal730)
 
 
+| <img src="https://github.com/user-attachments/assets/afba7aa1-adb2-48d7-a025-c17b0579356f" width="435" alt="mando2026" /> | <img src="https://github.com/user-attachments/assets/9da7a35f-cd84-4487-b8e1-3d1138432116" width="435" alt="project2026" /> |
+| :---: | :---: |
+| 2026.06 ~ 2026.09 | 2026.03 ~ 2026.06 |
+
 | <img src="https://github.com/user-attachments/assets/e2955f04-f05c-44d1-9308-7223a0c1a2b2" width="280" alt="jeju2026" /> | <img src="https://github.com/user-attachments/assets/642d40e3-895e-4910-afb0-932322770ab8" width="280" alt="mando2025" /> | <img src="https://github.com/user-attachments/assets/f40b343c-3481-47dd-95f1-e35a8f5a8b29" width="280" alt="jeju2025" /> |
 | :---: | :---: | :---: |
 | 2025.12 ~ 2026.04 | 2025.06 ~ 2025.09 | 2024.12 ~ 2025.07 |
