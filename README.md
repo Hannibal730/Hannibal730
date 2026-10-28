@@ -68,9 +68,9 @@
 
   - ### 2026.05 ~ 2026.09
   
-    | 2026 Mando HL Klemove Autonomous Driving Competition |
+    | [2026 HL Mando FMA Autonomous Driving Competition](https://github.com/Hannibal730/Mando2026_ws) |
     | :-------------------------------------------------------------------------------------------- |
-    | **My Role**: Team Leader  |
+    | **My Role**: Team Lead  |
     | <img src="https://github.com/user-attachments/assets/ca72aac6-35a2-4ec5-ac33-387d493edbc2" width="400" alt="Curve Navigation"> |
 
 <br>
@@ -79,14 +79,14 @@
   
     | [The 5th International university student EV Autonomous driving Competition](https://github.com/Hannibal730/Jejudol_ws) |
     | :-------------------------------------------------------------------------------------------- |
-    | **My Role**: Team Leader  |
+    | **My Role**: Team Lead  |
     | <img src="https://github.com/user-attachments/assets/e335146a-d55e-46ad-8089-03c9711fd0f3" width="600" alt="Curve Navigation"> |
 
 <br>
 
   - ### 2025.06 ~ 2025.09
  
-    | [🏆 2025 Mando HL Klemove Autonomous Driving Competition](https://github.com/Hannibal730/Mandol_ws) |
+    | [🏆 2025 HL Mando FMA Autonomous Driving Competition](https://github.com/Hannibal730/Mandol_ws) |
     | :-------------------------------------------------------------------------------------------- |
     | **My Role**: Techical Director / Path planning based Purepursuit with GPS sensors  |
     | <img src="https://github.com/user-attachments/assets/64dd7dbc-1c07-494a-85b3-49af38677810" width="600" alt="Curve Navigation"> |
